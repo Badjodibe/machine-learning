@@ -1,4 +1,4 @@
-# Welcome to my Machine Learning Repository!
+# Apprenez les modèles d'apprentissage automatique!
 
 Machine learning est un domaine de l'intélligence artificielle qui se concentre sur déterminer les relations
 existant dans un ensemble de données et d'apprendre les lois qui gouvernent ces relation. Les lois ou règle etant 
